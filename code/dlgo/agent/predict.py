@@ -5,7 +5,7 @@ from dlgo.agent.base import Agent
 from dlgo.agent.helpers import is_point_an_eye
 from dlgo import encoders
 from dlgo import goboard
-from dlgo import kerasutil
+#from dlgo import kerasutil
 # end::dl_agent_imports[]
 __all__ = [
     'DeepLearningAgent',
